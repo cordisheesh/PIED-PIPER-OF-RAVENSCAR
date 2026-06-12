@@ -71,6 +71,8 @@ label start:
             show smitt 
             r "Content even?"
             m "I love the shore, me lad."
+            m "The sounds of the ocean calm me."
+            m "I've been on similar cases as well, that helps too."
             m "Is that all?"
             r "Aye sir."
             m "We have a ripper to catch!"
